@@ -1,1 +1,2 @@
-# p38camera-trex
+# P38-InfiniteRunner-Trex-GameCamera
+Trex Colorful Game Camera
